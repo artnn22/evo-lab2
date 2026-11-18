@@ -1,0 +1,12 @@
+{
+  "population_size": 60,
+  "generations": 200,
+  "elite_size": 2,
+  "tournament_size": 3,
+  "crossover_prob": 0.9,
+  "mutation_prob": 0.2,
+  "seed_start": 1000,
+  "name": "penalty_reassign",
+  "constraints": "penalty",
+  "mutation": "reassign"
+}

@@ -1,0 +1,190 @@
+{
+  "variant": 9,
+  "seed": 900,
+  "times": [
+    "08:30-10:00",
+    "10:15-11:45",
+    "12:00-13:30",
+    "13:45-15:15",
+    "15:30-17:00",
+    "17:15-18:45"
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "capacity": 25
+    },
+    {
+      "id": 2,
+      "capacity": 35
+    },
+    {
+      "id": 3,
+      "capacity": 45
+    },
+    {
+      "id": 4,
+      "capacity": 60
+    },
+    {
+      "id": 5,
+      "capacity": 80
+    },
+    {
+      "id": 6,
+      "capacity": 100
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "slot": 0,
+      "students": 23
+    },
+    {
+      "id": 2,
+      "slot": 0,
+      "students": 29
+    },
+    {
+      "id": 3,
+      "slot": 0,
+      "students": 25
+    },
+    {
+      "id": 4,
+      "slot": 0,
+      "students": 54
+    },
+    {
+      "id": 5,
+      "slot": 0,
+      "students": 84
+    },
+    {
+      "id": 6,
+      "slot": 1,
+      "students": 31
+    },
+    {
+      "id": 7,
+      "slot": 1,
+      "students": 28
+    },
+    {
+      "id": 8,
+      "slot": 1,
+      "students": 19
+    },
+    {
+      "id": 9,
+      "slot": 1,
+      "students": 34
+    },
+    {
+      "id": 10,
+      "slot": 1,
+      "students": 25
+    },
+    {
+      "id": 11,
+      "slot": 2,
+      "students": 25
+    },
+    {
+      "id": 12,
+      "slot": 2,
+      "students": 25
+    },
+    {
+      "id": 13,
+      "slot": 2,
+      "students": 84
+    },
+    {
+      "id": 14,
+      "slot": 2,
+      "students": 33
+    },
+    {
+      "id": 15,
+      "slot": 2,
+      "students": 44
+    },
+    {
+      "id": 16,
+      "slot": 3,
+      "students": 17
+    },
+    {
+      "id": 17,
+      "slot": 3,
+      "students": 41
+    },
+    {
+      "id": 18,
+      "slot": 3,
+      "students": 40
+    },
+    {
+      "id": 19,
+      "slot": 3,
+      "students": 20
+    },
+    {
+      "id": 20,
+      "slot": 3,
+      "students": 21
+    },
+    {
+      "id": 21,
+      "slot": 4,
+      "students": 32
+    },
+    {
+      "id": 22,
+      "slot": 4,
+      "students": 18
+    },
+    {
+      "id": 23,
+      "slot": 4,
+      "students": 21
+    },
+    {
+      "id": 24,
+      "slot": 4,
+      "students": 18
+    },
+    {
+      "id": 25,
+      "slot": 4,
+      "students": 36
+    },
+    {
+      "id": 26,
+      "slot": 5,
+      "students": 21
+    },
+    {
+      "id": 27,
+      "slot": 5,
+      "students": 36
+    },
+    {
+      "id": 28,
+      "slot": 5,
+      "students": 39
+    },
+    {
+      "id": 29,
+      "slot": 5,
+      "students": 17
+    },
+    {
+      "id": 30,
+      "slot": 5,
+      "students": 35
+    }
+  ]
+}
